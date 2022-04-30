@@ -8,4 +8,4 @@
 Victor0814gui/Victor0814gui is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-<img src="https://static.wikia.nocookie.net/universocinematograficomarvel/images/c/cb/Stark_Ultimato.jpg/revision/latest/scale-to-width-down/350?cb=20211230004015&path-prefix=pt" />
+<img styles="margin: 0 auto;border-radius:12px;" src="https://static.wikia.nocookie.net/universocinematograficomarvel/images/c/cb/Stark_Ultimato.jpg/revision/latest/scale-to-width-down/350?cb=20211230004015&path-prefix=pt" />
