@@ -10,5 +10,4 @@ You can click the Preview link to take a look at your changes.
 --->
 <img style="border-radius:12px;" src="https://static.wikia.nocookie.net/universocinematograficomarvel/images/c/cb/Stark_Ultimato.jpg/revision/latest/scale-to-width-down/350?cb=20211230004015&path-prefix=pt" />
 ##Me
-
 #Me,I'm Victor, I like to create things, but I hate bug codes, I'm going bald because of them
