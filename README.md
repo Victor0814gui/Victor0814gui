@@ -4,10 +4,6 @@
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
-<!---
-Victor0814gui/Victor0814gui is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
 <h1>Title</h1>
---->
 ##Me
 I'm Victor, I like to create things, but I hate bug codes, I got MAD 'cause of them
