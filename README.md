@@ -15,5 +15,4 @@ I’m a Developer
 
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/victor-guilherme-025789229/)
 [![Gmail Badge](https://img.shields.io/badge/victor08gui14@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:victor08gui14@gmail.com)](mailto:victor08gui14@gmail.com)
-[![Instagram Badge](https://img.shields.io/badge/-Instagram-purple?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/victor14gui08/)](https://www.instagram.com/victor14gui08/)
 
