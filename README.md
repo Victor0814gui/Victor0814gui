@@ -10,10 +10,6 @@ Olá! Eu sou Victor Guilherme, um entusiasta apaixonado por programação e inov
 - 💡 Adoro trabalhar em projetos que envolvem tratamento de arquivos e todo lists.
 - 💬 Me pergunte sobre mais sobre o que faço e meus proprositos para tornar o Brazil um lugar melhor.
 
-## Experiência e Projetos Notáveis
-
-- adicionar
-
 ## Minhas Habilidades
 
 - **Linguagens de Programação:** javascript e c++
