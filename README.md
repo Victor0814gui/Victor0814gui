@@ -1,35 +1,36 @@
-# Bem-vindo ao meu Mundo de Código! 👩‍💻
+# Welcome to my Code World! 👩‍💻
 
-Olá! Eu sou Victor Guilherme, um entusiasta apaixonado por programação e inovação. Eu me vejo como um um dos grandes no futuro e sem sombra de duvidas vou me esforçar ao maximo para estar lá. Minha jornada no mundo da tecnologia tem sido emocionante e cheia de aprendizados e principalmente desafios, estou sempre em busca de novos problemas, soluções, e oportunidades para crescer.
+Hello! I'm Victor Guilherme, a passionate enthusiast of programming and innovation. I envision myself as one of the greats in the future, and without a doubt, I will give my utmost to get there. My journey in the world of technology has been exhilarating, filled with learning experiences, and most importantly, challenges. I'm always on the lookout for new problems, solutions, and opportunities to grow.
 
-## Sobre Mim
+***For Portuguese speakers, there is also a [README in Brazilian Portuguese](https://github.com/Victor0814gui/Victor0814gui/blob/main/portuguese-readme.md) available.*** 
 
-- 👨‍💻 Atualmente, estou focado em react-native-windows e react native;
-- 🌱 Estou constantemente aprendendo e aprimorando minhas habilidades em nodejs e nextjs.
-- 🚀 Tenho uma paixão por resolver problemas complexos e criar soluções inovadoras que impactam positivamente a vida das pessoas.
-- 💡 Adoro trabalhar em projetos que envolvem tratamento de arquivos e todo lists.
-- 💬 Me pergunte sobre mais sobre o que faço e meus proprositos para tornar o Brazil um lugar melhor.
+## About Me
 
-## Minhas Habilidades
+- 👨‍💻 Currently, I'm focused on react-native-windows and react native;
+- 🌱 I'm constantly learning and refining my skills in nodejs and nextjs.
+- 🚀 I have a passion for solving complex problems and creating innovative solutions that positively impact people's lives.
+- 💡 I love working on projects involving file handling and to-do lists.
+- 💬 Ask me more about what I do and my goals to make Brazil a better place.
+- 
+## My Skills
 
-- **Linguagens de Programação:** javascript e c++
-- **Frameworks e Bibliotecas:** reactjs, react native, nextjs
-- **Ferramentas e Plataformas:** aws, linux, windows
+- **Programming Languages:** javascript and c++
+- **Frameworks and Libraries:** reactjs, react native, nextjs
+- **Tools and Platforms:** aws, linux, windows
 
-## Como me Encontrar
+## How to Reach Me
 
 - 💼 [LinkedIn](https://www.linkedin.com/in/victor-guilherme-025789229)
 - 🌐 [Website](https://portifolio-victor-guilherme-victor0814gui.vercel.app/)
 - 🐦 [Twitter](https://twitter.com/VictorG55175927)
 
-## Meus Interesses
+## My Interests
 
-- Esudar programção e engenharia
-- Colaborar em projetos
-- Filmes da Marvel
-- Uma boa leitura
+- Studying programming and engineering
+- Collaborating on projects
+- Marvel movies
+- A good read
   
-
-Espero que esteja animado(a) para explorar meu repositório e encontrar projetos interessantes! Se você é um recrutador ou colaborador em potencial, fique à vontade para entrar em contato comigo. Estou sempre aberto para colaborações emocionantes e novas oportunidades.
+I hope you're excited to explore my repository and discover interesting projects! If you're a recruiter or a potential collaborator, feel free to get in touch. I'm always open to exciting collaborations and new opportunities.
 
 Happy coding! 🚀
