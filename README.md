@@ -6,6 +6,12 @@ Hello! I'm Victor Guilherme, a passionate enthusiast of programming and innovati
 
 ## About Me
 
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
+![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+
 - 👨‍💻 Currently, I'm focused on react-native-windows and react native;
 - 🌱 I'm constantly learning and refining my skills in nodejs and nextjs.
 - 🚀 I have a passion for solving complex problems and creating innovative solutions that positively impact people's lives.
