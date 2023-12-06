@@ -32,7 +32,7 @@ Olá! Eu sou Victor Guilherme, um entusiasta apaixonado por programação e inov
 
 ## Meus Interesses
 
-- Esudar programção e engenharia
+- Esudar programação e engenharia
 - Colaborar em projetos
 - Filmes da Marvel
 - Uma boa leitura
