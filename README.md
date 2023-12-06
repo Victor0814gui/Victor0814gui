@@ -1,3 +1,8 @@
+
+<img src="https://github.com/Victor0814gui/Victor0814gui/assets/92493696/29170b4a-0018-423a-a881-b3c3e69ff3e8" alt="thumbnail-preview"/>
+
+
+
 # Welcome to my Code World! 👩‍💻
 
 Hello! I'm Victor Guilherme, a passionate enthusiast of programming and innovation. I envision myself as one of the greats in the future, and without a doubt, I will give my utmost to get there. My journey in the world of technology has been exhilarating, filled with learning experiences, and most importantly, challenges. I'm always on the lookout for new problems, solutions, and opportunities to grow.
